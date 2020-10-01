@@ -1,11 +1,1 @@
-//c program to print letters from A to Z
-#include<stdio.h>
-void main()
-{
-char ch;
-printf("THE LETTERS ARE =>");
-for(ch='A';ch<='Z';ch++)
-{
-printf("%c ",ch);
-}
-}
+i have created a C programe to print all 26 letters of the english.
